@@ -15,4 +15,4 @@ You can buy ZX Max 128 issue 3 PCB from PCBWay through this link:
   
  You can buy ZX Max 128 issue 2B PCB from PCBWay through this link: 
   
-  
+  <a href="https://www.pcbway.com/project/shareproject/ZX_Max_128_Issue_2B_5e752ff6.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
