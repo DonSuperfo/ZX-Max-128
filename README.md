@@ -9,8 +9,10 @@ PCB is half size of original ZX Spectrum, can be fit in 48K or 48K+ case.
 - Has Keyboard on board (Issue 2B)
 ![Board](https://github.com/DonSuperfo/ZX-Max-128/blob/main/Issue%203/Max%20128%20Issue%203.jpg)
 ![Board](https://github.com/DonSuperfo/ZX-Max-128/blob/main/Issue%202B/Max%20128%20%20Issue%202b.jpg)
-If you want to get PCB, you can get it from PCBWay through this link:
+You can buy ZX Max 128 issue 3 PCB from PCBWay through this link:
 
   <a href="https://www.pcbway.com/project/shareproject/ZX_Max_128_Issue_3_d9ef9c03.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+  
+ You can buy ZX Max 128 issue 2B PCB from PCBWay through this link: 
   
   
