@@ -6,7 +6,9 @@ PCB is half size of original ZX Spectrum, can be fit in 48K or 48K+ case.
 - 32K ROM and 128K RAM
 - AY-3-8910 sound chip
 - Composite and RGB PAL output
+Issue 3
 ![Board](https://github.com/DonSuperfo/ZX-Max-128/blob/main/Issue%203/Max%20128%20Issue%203.jpg)
+Issue 2B
 ![Board](https://github.com/DonSuperfo/ZX-Max-128/blob/main/Issue%202B/Max%20128%20%20Issue%202b.jpg)
 If you want to get PCB, you can get it from PCBWay through this link:
 
