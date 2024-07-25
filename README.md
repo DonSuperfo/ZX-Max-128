@@ -3,7 +3,8 @@ This is a ZX Spectrum 128 Clone base on CLPD EPM7128S. The ULA implement is base
 PCB is half size of original ZX Spectrum, can be fit in 48K or 48K+ case.
 
 - PCB version 3, 
-- 32K ROM and 128K RAM
+- 32K ROM (programmed with spec128.rom)
+- 128K RAM
 - AY-3-8910 sound chip
 - Composite and RGB PAL output
 - Has Keyboard on board (Issue 2B)
