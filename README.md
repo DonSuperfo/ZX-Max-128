@@ -14,7 +14,7 @@ PCB is half size of original ZX Spectrum, can be fit in 48K or 48K+ case.
 - SAA1099Sound Chip
 - SAM2695 MiDi Player
 - Kempston Joystick
-![Board](https://github.com/DonSuperfo/ZX-Max-128/blob/main/Issue%205/Max%20128%20Issue%205-2.jpg)
+![Board](https://github.com/DonSuperfo/ZX-Max-128/blob/main/Issue%205/ZX%20Max%20128%20Issue%205-2.jpg)
 ![Board](https://github.com/DonSuperfo/ZX-Max-128/blob/main/Issue%203/Max%20128%20Issue%203.jpg)
 ![Board](https://github.com/DonSuperfo/ZX-Max-128/blob/main/Issue%202B/Max%20128%20%20Issue%202b.jpg)
 
